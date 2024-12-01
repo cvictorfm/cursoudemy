@@ -1,0 +1,54 @@
+*{
+    padding: 10px;
+    margin: 10px;    
+    
+}
+
+
+.principal{
+    max-width:100%;
+    overflow:auto;
+}
+
+table, p{  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    color: aqua;
+    
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+        
+}
+
+tfoot{
+    background-color:#ddd;
+    
+}
+
+thead tr{
+    color: red;
+
+}
+
+tbody td{
+    font-size: 15px;
+}
+
+tbody td{
+    color: black;
+}
+
+tfoot{
+    font-size: 15px;
+}
